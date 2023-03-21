@@ -1,4 +1,4 @@
-## EHCI
+# EHCI4Intel
 ## REQUIREMENTS
 - PyQt5 `pip3 install PyQt5`
 - [Intel® Power Gadget](https://www.intel.com/content/www/us/en/developer/articles/tool/power-gadget.html)
